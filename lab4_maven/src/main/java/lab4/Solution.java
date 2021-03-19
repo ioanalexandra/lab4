@@ -16,6 +16,7 @@ public class Solution {
 		listaStudenti.add(s);
 		listaScoli.add(h);
 	}
+
 	// am afisat solutia in forma friendly
 	@Override
 	public String toString() {

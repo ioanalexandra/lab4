@@ -55,7 +55,7 @@ public class Main {
 		 * studentList.get(i).setNume(faker.name().lastName()); } for (School s :
 		 * schoolSet) { s.setNume(faker.name().lastName()); }
 		 */
-		
+
 		System.out.println("\nLe afisez cu stream:");
 		studentList.stream().forEach(System.out::print);
 		System.out.println();
